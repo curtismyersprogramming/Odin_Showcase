@@ -1,6 +1,10 @@
 # Odin_Showcase
 Showcase of Odin project assignments 
 
+# css update - Index - 28/10/21
+
+First CSS adjustment of the site minor changes such as font family and text align
+
 # Assigment 1 - Lists - 28/10/21
 
 This assignment wants to complete the following tasks 
