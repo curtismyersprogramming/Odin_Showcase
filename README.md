@@ -1,6 +1,10 @@
 # Odin_Showcase
 Showcase of Odin project assignments 
 
+# Assignment 2 - Box Model - 01/11/21
+
+A modified version of Assignment 1 which outlines all elements on the page with a border to highlight the html/css box model
+
 # css update - Index - 28/10/21
 
 First CSS adjustment of the site minor changes such as font family and text align
